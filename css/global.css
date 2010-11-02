@@ -2,6 +2,7 @@
 	border-bottom: 2px solid;
 	padding: 2px;
 	margin-bottom: 20px;
+	background-color: #fff;
 }
 
 #navbg {
@@ -46,8 +47,8 @@
 }
 #content {
     clear: both;
-    margin-top: 6px;
 }
+
 #container {
 	margin-top: 10px;
 }
